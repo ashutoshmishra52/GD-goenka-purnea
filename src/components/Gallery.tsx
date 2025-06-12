@@ -7,64 +7,64 @@ const Gallery = () => {
 
   const galleryImages = [
     {
-      src: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=600&h=400&fit=crop",
-      alt: "Students in classroom",
-      category: "Academics"
+      src: "/lovable-uploads/c8e5e39b-8fda-4462-9600-2a84a501053c.png",
+      alt: "G D Goenka School Modern Architecture",
+      category: "Campus"
     },
     {
-      src: "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=600&h=400&fit=crop",
-      alt: "Computer lab",
+      src: "/lovable-uploads/8651c4ce-4eda-4c4e-a1eb-ef854dde6702.png",
+      alt: "G D Goenka School Campus Overview",
+      category: "Campus"
+    },
+    {
+      src: "/lovable-uploads/1a327a79-471e-4608-bf79-c5c26e2b6215.png",
+      alt: "G D Goenka School Transport Facilities",
       category: "Facilities"
     },
     {
-      src: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&h=400&fit=crop",
-      alt: "Science laboratory",
-      category: "Facilities"
-    },
-    {
-      src: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=600&h=400&fit=crop",
-      alt: "Library study area",
-      category: "Facilities"
-    },
-    {
-      src: "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&h=400&fit=crop",
-      alt: "Students presenting",
-      category: "Events"
-    },
-    {
-      src: "https://images.unsplash.com/photo-1473091534298-04dcbce3278c?w=600&h=400&fit=crop",
-      alt: "Art class",
+      src: "https://gdgoenkapurnea.com/photogallery/6292.jpg",
+      alt: "G D Goenka School Activities",
       category: "Activities"
     },
     {
-      src: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=600&h=400&fit=crop",
-      alt: "Group study",
+      src: "https://gdgoenkapurnea.com/photogallery/6292.jpg",
+      alt: "G D Goenka School Events",
+      category: "Events"
+    },
+    {
+      src: "https://gdgoenkapurnea.com/photogallery/6292.jpg",
+      alt: "G D Goenka School Academics",
       category: "Academics"
     },
     {
-      src: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&fit=crop",
-      alt: "Technology integration",
+      src: "https://gdgoenkapurnea.com/photogallery/6292.jpg",
+      alt: "G D Goenka School Facilities",
       category: "Facilities"
     },
     {
-      src: "https://images.unsplash.com/photo-1501854140801-50d01698950b?w=600&h=400&fit=crop",
-      alt: "School campus",
+      src: "https://gdgoenkapurnea.com/photogallery/6292.jpg",
+      alt: "G D Goenka School Campus Life",
       category: "Campus"
     },
     {
-      src: "https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=600&h=400&fit=crop",
-      alt: "School building",
+      src: "https://gdgoenkapurnea.com/photogallery/6292.jpg",
+      alt: "G D Goenka School Students",
+      category: "Activities"
+    },
+    {
+      src: "https://gdgoenkapurnea.com/photogallery/6292.jpg",
+      alt: "G D Goenka School Events",
+      category: "Events"
+    },
+    {
+      src: "https://gdgoenkapurnea.com/photogallery/6292.jpg",
+      alt: "G D Goenka School Infrastructure",
       category: "Campus"
     },
     {
-      src: "https://images.unsplash.com/photo-1527576539890-dfa815648363?w=600&h=400&fit=crop",
-      alt: "School architecture",
-      category: "Campus"
-    },
-    {
-      src: "https://images.unsplash.com/photo-1466442929976-97f336a657be?w=600&h=400&fit=crop",
-      alt: "School entrance",
-      category: "Campus"
+      src: "https://gdgoenkapurnea.com/photogallery/6292.jpg",
+      alt: "G D Goenka School Learning",
+      category: "Academics"
     }
   ];
 
