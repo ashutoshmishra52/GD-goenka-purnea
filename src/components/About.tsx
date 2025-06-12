@@ -40,7 +40,7 @@ const About = () => {
         <div className="grid lg:grid-cols-2 gap-12 items-center mb-16">
           <div>
             <img
-              src="https://images.unsplash.com/photo-1487958449943-2429e8be8625?w=600&h=400&fit=crop"
+              src="https://www.google.com/imgres?q=gd%20goenka%20purnea%20map&imgurl=https%3A%2F%2Ffiles.yappe.in%2Fplace%2Ffull%2Fg-d-goenka-public-school-purnea-best-cbse-school-in-purnea-3336707.webp&imgrefurl=https%3A%2F%2Fyappe.in%2Fbihar%2Fpurnia%2Fg-d-goenka-public-school-purnea-best-cbse-school-in-purnea%2F285894&docid=IEu_QVpkcBS0eM&tbnid=DbYJbw9iHMIWeM&vet=12ahUKEwidmuH7t-uNAxWpklYBHWulKs0QM3oECEMQAA..i&w=1080&h=628&hcb=2&ved=2ahUKEwidmuH7t-uNAxWpklYBHWulKs0QM3oECEMQAA=600&h=400&fit=crop"
               alt="School Building"
               className="w-full h-96 object-cover rounded-2xl shadow-lg"
             />
