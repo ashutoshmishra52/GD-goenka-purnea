@@ -7,42 +7,32 @@ const Gallery = () => {
 
   const galleryImages = [
     {
-      src: "/lovable-uploads/c8e5e39b-8fda-4462-9600-2a84a501053c.png",
-      alt: "G D Goenka School Modern Architecture",
+      src: "https://gdgoenkapurnea.com/photogallery/3911.jpg",
+      alt: "G D Goenka School Campus",
       category: "Campus"
     },
     {
-      src: "/lovable-uploads/8651c4ce-4eda-4c4e-a1eb-ef854dde6702.png",
-      alt: "G D Goenka School Campus Overview",
-      category: "Campus"
-    },
-    {
-      src: "/lovable-uploads/1a327a79-471e-4608-bf79-c5c26e2b6215.png",
-      alt: "G D Goenka School Transport Facilities",
-      category: "Facilities"
-    },
-    {
-      src: "https://gdgoenkapurnea.com/photogallery/6292.jpg",
+      src: "https://gdgoenkapurnea.com/photogallery/1833.jpg",
       alt: "G D Goenka School Activities",
       category: "Activities"
     },
     {
-      src: "https://gdgoenkapurnea.com/photogallery/6292.jpg",
+      src: "https://gdgoenkapurnea.com/photogallery/9691.jpg",
       alt: "G D Goenka School Events",
       category: "Events"
     },
     {
-      src: "https://gdgoenkapurnea.com/photogallery/6292.jpg",
+      src: "https://gdgoenkapurnea.com/photogallery/7359.jpg",
       alt: "G D Goenka School Academics",
       category: "Academics"
     },
     {
-      src: "https://gdgoenkapurnea.com/photogallery/6292.jpg",
+      src: "https://gdgoenkapurnea.com/photogallery/3523.jpg",
       alt: "G D Goenka School Facilities",
       category: "Facilities"
     },
     {
-      src: "https://gdgoenkapurnea.com/photogallery/6292.jpg",
+      src: "https://gdgoenkapurnea.com/photogallery/6592.jpg",
       alt: "G D Goenka School Campus Life",
       category: "Campus"
     },
@@ -52,19 +42,34 @@ const Gallery = () => {
       category: "Activities"
     },
     {
-      src: "https://gdgoenkapurnea.com/photogallery/6292.jpg",
+      src: "https://gdgoenkapurnea.com/photogallery/8949.jpg",
       alt: "G D Goenka School Events",
       category: "Events"
     },
     {
-      src: "https://gdgoenkapurnea.com/photogallery/6292.jpg",
+      src: "https://gdgoenkapurnea.com/photogallery/7386.jpg",
       alt: "G D Goenka School Infrastructure",
       category: "Campus"
     },
     {
-      src: "https://gdgoenkapurnea.com/photogallery/6292.jpg",
+      src: "https://gdgoenkapurnea.com/photogallery/7694.jpg",
       alt: "G D Goenka School Learning",
       category: "Academics"
+    },
+    {
+      src: "https://gdgoenkapurnea.com/photogallery/757.jpg",
+      alt: "G D Goenka School Activities",
+      category: "Activities"
+    },
+    {
+      src: "https://gdgoenkapurnea.com/photogallery/7605.jpg",
+      alt: "G D Goenka School Facilities",
+      category: "Facilities"
+    },
+    {
+      src: "https://gdgoenkapurnea.com/photogallery/8470.jpg",
+      alt: "G D Goenka School Events",
+      category: "Events"
     }
   ];
 
