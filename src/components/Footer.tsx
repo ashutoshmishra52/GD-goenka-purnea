@@ -134,7 +134,7 @@ const Footer = () => {
             </div>
             <div className="flex items-center space-x-1 text-sm opacity-90">
               <span>Copyright reserved by</span>
-              <Heart className="h-4 w-4 text-red-400" />
+              
               <span>Ashutosh Mishra</span>
             </div>
           </div>
